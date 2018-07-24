@@ -1,0 +1,24 @@
+{
+  "name": "expose-gc",
+  "version": "1.0.0",
+  "description": "Expose GC at runtime without access to comamnd node flags in command line",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/legraphista/expose-gc.git"
+  },
+  "keywords": [
+    "expose",
+    "gc",
+    "runtime",
+    "expose-gc"
+  ],
+  "author": "Stefan-Gabriel Muscalu <stefan.gabriel.muscalu@gmail.com> (http://my.corneroftheinternet.rocks/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/legraphista/expose-gc/issues"
+  },
+  "homepage": "https://github.com/legraphista/expose-gc#readme"
+}
