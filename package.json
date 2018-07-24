@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/legraphista/expose-gc/issues"
   },
-  "homepage": "https://github.com/legraphista/expose-gc#readme"
+  "homepage": "https://github.com/legraphista/expose-gc#readme",
+  "engines": {
+    "node": ">=4"
+  }
 }
